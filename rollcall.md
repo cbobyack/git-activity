@@ -9,7 +9,4 @@ Name, Email, and Website URL
     * Email: rdomansk@kean.edu
     * Website:  https://tech3500.githb.io/fall2019
     
-   
-* Christina Bobyack
-   * Email: bobyackc@kean.edu
-   * Website: https://github.com/cbobyack
+
